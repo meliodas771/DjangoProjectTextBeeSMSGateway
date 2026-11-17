@@ -15,7 +15,6 @@ This project is a web-based SMS gateway messaging system built with Python and t
 
 ## 2. Group Members and Assigned Responsibilities
 
-*(Please update the placeholders below with your group's details)*
 
 | Member Name | Role & Assigned Responsibilities |
 | :--- | :--- |
